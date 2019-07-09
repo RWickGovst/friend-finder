@@ -1,4 +1,4 @@
-# friend-finder
+# Friend Finder
 
 ## Computer matchmaker
 
@@ -6,8 +6,11 @@
 
 #### The program then matches you with a friend with similiar results
 
+
+### HTML Home page from homework example
 ![Home Page](./assets/main.png)
 
+### HTML Questions from homework example
 ![Survey](./assets/survey.png)
 
 
