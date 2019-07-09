@@ -47,5 +47,21 @@ var friends = [
           3
         ]
     },
+    {
+      "name":"Russ",
+      "photo":"./assets/man2.png",
+      "scores":[
+        5,
+        4,
+        4,
+        2,
+        4,
+        3,
+        3,
+        4,
+        4,
+        3
+      ]
+  },
 ]
 module.exports = friends;

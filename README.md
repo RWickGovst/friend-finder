@@ -6,4 +6,8 @@
 
 #### The program then matches you with a friend with similiar results
 
+![Home Page](./assets/main.png)
+
+![Survey](./assets/survey.png)
+
 
