@@ -17,7 +17,7 @@ var friends = [
       },
       {
           "name":"Sally",
-          "photo":"https://",
+          "photo":"./assets/woman2.png",
           "scores":[
             4,
             3,
@@ -31,5 +31,21 @@ var friends = [
             2
           ]
       },
+      {
+        "name":"Jenny",
+        "photo":"./assets/woman1.png",
+        "scores":[
+          5,
+          4,
+          4,
+          2,
+          4,
+          3,
+          3,
+          4,
+          4,
+          3
+        ]
+    },
 ]
 module.exports = friends;
