@@ -5,7 +5,7 @@ module.exports = function(app){
         res.json(friends);
     })
     app.post("/api/friends", function(req, res){
-        console.log("api/friends post route");
+        // console.log("api/friends post route");
         var bestMatch = {
             name: "",
             photo: "",

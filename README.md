@@ -15,3 +15,7 @@
 
 
 https://stormy-island-83614.herokuapp.com
+
+##### The images do not work
+##### This program could not have been possible
+##### Without my tutor!!!
