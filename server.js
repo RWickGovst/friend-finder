@@ -12,3 +12,4 @@ require("./app/routing/htmlRoutes")(app);
 app.listen(PORT, function(){
     console.log("App running on port: " +PORT);
 })
+
