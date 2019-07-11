@@ -5,13 +5,15 @@ module.exports = function(app){
         res.json(friends);
     })
     app.post("/api/friends", function(req, res){
+        console.log("api/friends post route");
         var bestMatch = {
             name: "",
             photo: "",
             friendDif: Infinity
         }
-        var userData = req.body.userData;
+        var userData = req.body;
         var userScores = userData.scores;
+        
 
         var totalDiff;
 
@@ -25,7 +27,14 @@ module.exports = function(app){
                 totalDiff+= Math.abs(parseInt(currentFriendScore)-parseInt(currentUserScore));
 
             }
+            if(totalDiff <= bestMatch.friendDif){
+                bestMatch.name = currentFriend.name;
+                bestMatch.photo  = currentFriend.photo;
+                bestMatch.friendDif = totalDiff;
+            }
         }
+        friends.push(userData);
+        res.json(bestMatch);
 
     })
 }

@@ -1,7 +1,7 @@
 var friends = [
     {
         "name":"Ahmed",
-        "photo":"./assets/man1.png",
+        "photo" : "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiznYmk-6zjAhURK80KHQAzBGUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fman%2F&psig=AOvVaw3lsICY73mg0yYCcs5NOb3_&ust=1562937832427778",
         "scores":[
             5,
             1,
@@ -17,7 +17,7 @@ var friends = [
       },
       {
           "name":"Sally",
-          "photo":"./assets/woman2.png",
+          "photo":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiznYmk-6zjAhURK80KHQAzBGUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fman%2F&psig=AOvVaw3lsICY73mg0yYCcs5NOb3_&ust=1562937832427778",
           "scores":[
             4,
             3,
@@ -33,7 +33,7 @@ var friends = [
       },
       {
         "name":"Jenny",
-        "photo":"./assets/woman1.png",
+        "photo":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiznYmk-6zjAhURK80KHQAzBGUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fman%2F&psig=AOvVaw3lsICY73mg0yYCcs5NOb3_&ust=1562937832427778",
         "scores":[
           5,
           4,
@@ -49,7 +49,7 @@ var friends = [
     },
     {
       "name":"Russ",
-      "photo":"./assets/man2.png",
+      "photo":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiznYmk-6zjAhURK80KHQAzBGUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fman%2F&psig=AOvVaw3lsICY73mg0yYCcs5NOb3_&ust=1562937832427778",
       "scores":[
         5,
         4,
